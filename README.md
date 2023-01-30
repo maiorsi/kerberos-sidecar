@@ -1,3 +1,5 @@
+[![Create and publish a Docker image](https://github.com/maiorsi/kerberos-sidecar/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/maiorsi/kerberos-sidecar/actions/workflows/docker-publish.yml)
+
 # Kerberos Sidecar
 
 Kerberos Sidecar Container Image for Windows Auth to Kerberised Services.
